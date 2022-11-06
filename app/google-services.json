@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617165739264",
+    "project_id": "pdf-checking",
+    "storage_bucket": "pdf-checking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617165739264:android:6559d487f9fa90bd97cfe5",
+        "android_client_info": {
+          "package_name": "com.example.pdf_checking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617165739264-cf1l0tsae649vnlj9br2h5egusium02d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmcw7tvlcg895dHGDbJHMk1gUdMsRZK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617165739264-cf1l0tsae649vnlj9br2h5egusium02d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
